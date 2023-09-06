@@ -8,10 +8,9 @@
 <br/>
 
 <div align="center">
+
  
- 🔭 I'm currently working on web development with .NET
- 
- 🌱I'm currently learning **.NET CORE, ReactJS**
+ 🌱I'm currently learning **.NET CORE**
  
  </div>
 
