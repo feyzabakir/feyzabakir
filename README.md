@@ -7,12 +7,7 @@
 
 <br/>
 
-<div align="center">
 
- 
- 🌱I'm currently learning **.NET CORE**
- 
- </div>
 
  <div align="center"> 
   <a href="mailto:feyzanurbakirr@gmail.com">
