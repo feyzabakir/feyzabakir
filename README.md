@@ -8,7 +8,7 @@
 
 - 📝 Click for my Medium articles [Medium](feyzanurbakirr.medium.com)
 
-- 📫 You can reach me! [Mail](feyzanurbakirr@gmail.com)
+- 📫 How to reach me **feyzanurbakirr@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
