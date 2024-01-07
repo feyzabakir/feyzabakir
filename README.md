@@ -1,10 +1,8 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Feyza+Nur+Bakır!;" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
-<br/>
 
 - 🌱 I'm currently learning .Net, Microservice, JavaScript
 
@@ -12,7 +10,8 @@
 
 - 📫 You can reach me! [Mail](feyzanurbakirr@gmail.com)
 
-  ## Connect with me  
+<br>
+<h3 align="left">Connect with me:</h3>
 
  <div align="left"> 
   <a href="mailto:feyzanurbakirr@gmail.com">
@@ -23,14 +22,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
-<a href="https://medium.com/@feyzanurbakirr" target="_blank">
- <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+  <a href="https://medium.com/@feyzanurbakirr" target="_blank">
+    <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </div>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 
-<div align="center">
+<br> 
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️ </h2>
+
+<div align="left">
     <br>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
@@ -52,22 +53,20 @@
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feyzabakir&&row=1&theme=radical" alt="FeyzaBakır" /></a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=feyzabakir&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzabakir&amp;theme=radical&amp;hide_border=false" alt="">
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=feyzabakir&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+    </td>
+  <td width="50%" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzabakir&amp;theme=radical&amp;hide_border=false" alt="">   
+  </td>
+ </tr>
+</table> 
 
-
-### 📊 Contribution Stats
-
-<img alt="Feyza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=feyzabakir&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
