@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning .Net, Microservice, JavaScript
 
-- 📝 Click for my Medium articles [Medium](feyzanurbakirr.medium.com)
+- 📝You can read my articles on [Medium](feyzanurbakirr.medium.com)
 
 - 📫 How to reach me  [Mail](feyzanurbakirr@gmail.com)
 
