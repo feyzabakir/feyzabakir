@@ -56,13 +56,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+
 <table align="center">
   <tr>
     <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=feyzabakir&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+       <img src="https://github-readme-stats.vercel.app/api?username=feyzabakir&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
     </td>
   <td width="50%" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzabakir&amp;theme=radical&amp;hide_border=false" alt="">   
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzabakir&amp;theme=neon&amp;hide_border=false" alt="">   
   </td>
  </tr>
 </table> 
